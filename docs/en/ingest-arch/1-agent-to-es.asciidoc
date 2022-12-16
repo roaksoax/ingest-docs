@@ -1,4 +1,5 @@
 [[agent-to-es]]
+t 
 == 1. {agent} to {es}
 
 To ingest data into {es}, use the _simplest option that meets your needs_ and satisfies your use case.
